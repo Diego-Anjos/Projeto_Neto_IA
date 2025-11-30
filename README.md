@@ -278,7 +278,7 @@ Este é um projeto acadêmico, mas sugestões e feedback são bem-vindos!
 
 <div align="center">
 
-### Desenvolvido com ❤️ por Diego Gomes, Gustavo Santos e Ian Meirelles
+### Desenvolvido por Diego Gomes, Gustavo Santos e Ian Meirelles
 
 **UniFECAF - Expo Tech 2025**
 
