@@ -1,0 +1,7 @@
+{
+  "name": "NetoIA: Seu Assistente Digital",
+  "description": "NetoIA ajuda idosos a usar tecnologias do dia a dia com instruções passo a passo, fáceis de seguir, com imagens e leitura em voz alta.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
